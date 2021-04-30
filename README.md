@@ -10,4 +10,4 @@ You can reach me by these contacts:
 
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveira1397&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveira1397&layout=compact&theme=tokyonight)
