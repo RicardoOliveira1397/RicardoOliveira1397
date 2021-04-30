@@ -9,4 +9,4 @@ You can reach me by these contacts:
 - https://www.linkedin.com/in/ricardo-oliveira-801384149/
 
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=gruvbox)
