@@ -1,5 +1,5 @@
 I am Ricardo and I´m interested in learning about Web Designer Technologies.
-I´m currently learning basic languages like HTML, CSS and JavaScript. I would also like to learn Vue.js for updating my knowledge. 
+I´m currently learning basic languages like HTML, CSS and JavaScript. I would also like to learn Angular.js for updating my knowledge. 
 I´m looking for an opportunity in a company where I can learn and develop professionally.
 
 You can reach me by these contacts:
