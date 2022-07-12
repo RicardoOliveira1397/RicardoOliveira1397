@@ -2,15 +2,13 @@ I am Ricardo and I´m interested in learning about Web Designer Technologies.
 I´m currently learning basic languages like HTML, CSS and JavaScript. I would also like to learn Angular.js for updating my knowledge. 
 I´m looking for an opportunity in a company where I can learn and develop professionally.
 
-<div>
   ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveira1397&layout=compact&theme=tokyonight)
-</div>
 
 ### Skills:
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vue,cs,postgres&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,angularjs,cs,postgres&theme=dark"/>
     </a>
   </div>
   
