@@ -3,9 +3,10 @@ I´m currently learning basic languages like HTML, CSS and JavaScript. I would a
 I´m looking for an opportunity in a company where I can learn and develop professionally.
 
    <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=tokyonight" />
-   </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveira1397&layout=compact&theme=tokyonight)
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=tokyonight" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliveira1397&layout=compact&theme=tokyonight" />
+</div>
+
   
 ### Skills:
   <div>
