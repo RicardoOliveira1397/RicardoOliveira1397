@@ -13,7 +13,7 @@ I´m looking for an opportunity in a company where I can learn and develop profe
 ### Skills:
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,angular,postgres&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,postgres,wordpress&theme=dark"/>
     </a>
   </div>
   
