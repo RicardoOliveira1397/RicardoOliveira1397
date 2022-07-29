@@ -1,7 +1,6 @@
-Hi Devs!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Hi 👋, I'm Ricardo Firme de Oliveira &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-I am Ricardo and I´m interested in learning about Web Designer Technologies.
-I´m currently learning basic languages like HTML, CSS, JavaScript and AngularJS.
+I´m interested in learning about Web Designer Technologies.
 I´m looking for an opportunity in a company where I can learn and develop professionally.
 
 <div>
