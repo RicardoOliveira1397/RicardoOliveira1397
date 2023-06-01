@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Hi 👋, I'm Ricardo Firme de Oliveira &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-- 👨‍🎓 Graduated in Computer Engineering and currently pursuing a postgraduate degree in Project Managment
+- 👨‍🎓 Graduated in Computer Engineering and postgraduate in Project Managment
 - 🔎 I am interested in improving my skills by working in a group and contributing to the programming community.
 
 <div>
