@@ -12,7 +12,7 @@
 ### Skills:
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,postgres,wordpress&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,postgres,cs,dotnet,wordpress&theme=dark"/>
     </a>
   </div>
   
