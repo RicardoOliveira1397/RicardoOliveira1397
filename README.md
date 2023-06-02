@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Hi%20👋,%20I%27m%20Ricardo%20Firme%20de%20Oliveira%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 
-- 👨‍🎓 Graduated in Computer Engineering and postgraduate in Project Managment
-- 🔎 I am interested in improving my skills by working in a group and contributing to the programming community.
+- 👨‍🎓 Profissional graduado em Engenharia da computação com MBA em Gestão de Projetos.
+- 🔎 Atualmente programador C# e nas horas vagas estudante front-end em AngularJS.
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RicardoOliveira1397&show_icons=true&theme=tokyonight" />
