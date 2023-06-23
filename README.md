@@ -23,4 +23,5 @@
 </div>
 
 ##
+
 ![snake gif](https://github.com/RicardoOliveira1397/RicardoOliveira1397/blob/output/github-contribution-grid-snake.svg)
